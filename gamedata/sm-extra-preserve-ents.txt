@@ -1,0 +1,20 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTeamplayRoundBasedRules::RoundCleanupShouldIgnore"
+			{
+				"windows"	"189"
+				"linux"		"191"
+			}
+
+			"CTeamplayRoundBasedRules::ShouldCreateEntity"
+			{
+				"windows"	"190"
+				"linux"		"192"
+			}
+		}
+	}
+}
