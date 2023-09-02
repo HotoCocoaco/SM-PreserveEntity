@@ -2,7 +2,7 @@
 
 public Plugin myinfo = 
 {
-	name = "SQL Admins (Threaded)",
+	name = "Sm Extra Preserved Entity",
 	author = "AlliedModders LLC",
 	description = "Extra S_PreserveEnts",
 	version = "0.1",
